@@ -1,6 +1,6 @@
 All Rights Reserved
 
-Copyright (c) ${project.inceptionYear} ${owner}
+Copyright (c) 2024-2025 OwlSeries
 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
